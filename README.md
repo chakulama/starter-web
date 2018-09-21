@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 ###this part is edited by Mr. lama hehahaha
 
 ##edited2
+##edited3
+##edited4
