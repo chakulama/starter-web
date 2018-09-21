@@ -6,5 +6,5 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##Edited
-this part is edited by Mr. lama hehahaha
+##Edited1
+###this part is edited by Mr. lama hehahaha
