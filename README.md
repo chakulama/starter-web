@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 ##edited2
 ##edited3
 ##edited4
+###Copyright
+lama.info
